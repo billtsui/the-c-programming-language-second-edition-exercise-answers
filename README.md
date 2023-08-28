@@ -1,10 +1,8 @@
 # The C Programming Language(2nd Edition) Exercise Answers
 
-----
 
 # C 程序设计语言（第2版）习题答案
 
---------------------
 
 ![GitHub](https://img.shields.io/github/license/billtsui/the-c-programming-language-second-edition-exercises-answers)
 ![Static Badge](https://img.shields.io/badge/Apple%20clang-v14.0.3-brightgreen)
