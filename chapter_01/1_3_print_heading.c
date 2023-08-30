@@ -3,8 +3,7 @@
 * @Author: Bill Tsui
 * @Version: 1.0
 * @Date: 2023-08-28
-* @Description: 
-*	Exercise 1-3. Modify the temperature conversion program to print a heading above the table.
+* @Description: Exercise 1-3. Modify the temperature conversion program to print a heading above the table.
 ********************************************************************************/
 
 #include <stdio.h>

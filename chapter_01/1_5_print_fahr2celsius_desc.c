@@ -3,9 +3,8 @@
 * @Author: Bill Tsui
 * @Version: 1.0
 * @Date: 2023-08-28
-* @Description: 
-*	Exercise 1-5. Modify the temperature conversion program to print the table in reverse order, that is, from 300 degrees to 
-*   0.
+* @Description: Exercise 1-5. Modify the temperature conversion program to print the table in reverse order, that is, from 
+* 300 degrees to 0.
 ********************************************************************************/
 
 #include <stdio.h>
