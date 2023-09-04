@@ -4,7 +4,7 @@
 * @Version: 1.0
 * @Date: 2023-09-04
 * @Description: Write a program that prints its input one word per line.
-* Need to consider multiple spaces and others.
+* Multiple spaces, multiple tabs and multiple line breaks 
 ********************************************************************************/
 
 #define IN   1
